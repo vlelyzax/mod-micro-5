@@ -1,2 +1,6 @@
 # mod-micro-5
-Lightweight modular micro service component for distributed systems.
+
+Modular micro utility library for high-throughput architectures.
+
+## License
+MIT
